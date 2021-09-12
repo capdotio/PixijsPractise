@@ -1,5 +1,4 @@
 import * as PIXI from "pixi.js";
-//　シーンの変化を管理するクラス
 
 export class SceneManager{
     private gameLoops = [];
